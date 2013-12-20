@@ -125,13 +125,7 @@
         <dependency>
             <groupId>org.everit.osgi.dev.testrunner</groupId>
             <artifactId>org.everit.osgi.dev.testrunner.junit4</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.everit.osgi.dev.testrunner</groupId>
-            <artifactId>org.everit.osgi.dev.testrunner.blueprint</artifactId>
-            <version>1.0.0</version>
+            <version>3.0.0-alpha2</version>
         </dependency>
 
         <!-- Rich console -->
@@ -139,7 +133,7 @@
         <dependency>
             <groupId>org.everit.osgi.dev</groupId>
             <artifactId>org.everit.osgi.dev.richconsole</artifactId>
-            <version>1.1.0-alpha2</version>
+            <version>1.1.0-alpha4</version>
         </dependency>
     </dependencies>
 </project>

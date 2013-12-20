@@ -30,6 +30,6 @@ public class TestFooDataSource implements FooDataSource {
 
     @Override
     public String getGreeting() {
-        return "Hello";
+        return "Good afternoon";
     }
 }

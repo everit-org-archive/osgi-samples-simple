@@ -45,6 +45,6 @@ public class FooTestImpl implements FooTest {
         String result = foo.foonction("John");
         
         System.out.println("The result is " + result);
-        Assert.assertEquals("Hello John!", result);
+        Assert.assertEquals("Good afternoon John!", result);
     }
 }

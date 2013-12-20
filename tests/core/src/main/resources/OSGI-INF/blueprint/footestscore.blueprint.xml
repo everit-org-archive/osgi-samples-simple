@@ -29,8 +29,8 @@
 
 	<service id="fooTestService" interface="org.everit.osgi.samples.simple.tests.core.FooTest" ref="fooTestBean">
 		<service-properties>
-			<entry key="osgitest.testEngine" value="junit4" />
-                        <entry key="osgitest.testId" value="foo" />
+			<entry key="eosgi.testEngine" value="junit4" />
+                        <entry key="eosgi.testId" value="foo" />
 		</service-properties>
 	</service>
 </blueprint>
